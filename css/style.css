@@ -217,6 +217,9 @@ header .register_button{
     width: 173px;
     height: 76px;
 }
+.item img{
+    max-width: 173px;
+}
 .item div{
     position: absolute;
     top: 50%;
